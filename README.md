@@ -1,7 +1,7 @@
 # bytecode_interpreter
 
 # Example
-/*
+
                          * LOAD_VAL 1
          i = 1           * WRITE_VAR ‘i’
                          * READ_VAR ‘i’
@@ -14,7 +14,6 @@
                          * GOTO 2
                          * RETURN_VALUE
                          * 
-*/
 
 Run:
 
